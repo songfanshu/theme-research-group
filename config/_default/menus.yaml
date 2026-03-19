@@ -1,0 +1,16 @@
+main:
+  - name: 首页
+    url: /
+    weight: 10
+  - name: 研究方向
+    url: /project/
+    weight: 20
+  - name: 发表论文
+    url: /publication/
+    weight: 30
+  - name: 团队成员
+    url: /author/
+    weight: 40
+  - name: 招生招聘
+    url: /join-us/
+    weight: 50
