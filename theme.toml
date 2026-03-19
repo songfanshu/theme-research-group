@@ -17,24 +17,5 @@ tags = ["Integrated Circuits",
 [author]
   name = "课题组负责人 (PI)"
   homepage = "/"
-  # 网站主导航菜单 (右上角显示)
-main:
-  - name: 首页
-    url: /
-    weight: 10
-  - name: 研究方向
-    url: /project/
-    weight: 20
-  - name: 发表论文
-    url: /publication/
-    weight: 30
-  - name: 团队成员
-    url: /author/
-    weight: 40
-  - name: 实验室设施
-    url: /facilities/
-    weight: 50
-  - name: 招生招聘
-    url: /join-us/
-    weight: 60
+  
     
